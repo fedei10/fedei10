@@ -15,9 +15,9 @@ https://media.tenor.com/4k-pgr5BZv4AAAAC/developer-programmer.gif
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@fbellakhel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@fbellakhel" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/fedi bellakhel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fedi bellakhel" height="30" width="40" /></a>
-<a href="https://fb.com/fedi bellakhel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fedi bellakhel" height="30" width="40" /></a>
-<a href="https://instagram.com/fedi_bellakhel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fedi_bellakhel" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/fedi-bellakhel-76a486247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fedi bellakhel" height="30" width="40" /></a>
+<a href="https://www.facebook.com/fedi.bellakhel.73/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fedi bellakhel" height="30" width="40" /></a>
+<a href="https://www.instagram.com/fedi_bellakhel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fedi_bellakhel" height="30" width="40" /></a>
 <a href="https://discord.gg/fedei #4175" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fedei #4175" height="30" width="40" /></a>
 </p>
 
