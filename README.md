@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm fedi bellakhel</h1>
 <h3 align="center">fedi bellakhel , I am 20 years old , a coder who is eager to learn all , My only goal is to simply advance and broaden my knowledge. now , I am learning C.</h3>
-https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fdeveloper-gifs&psig=AOvVaw38WAq3sJlGecLTRId5ZR0y&ust=1674931033909000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMCPg72y6PwCFQAAAAAdAAAAABB-
+https://tenor.com/view/developer-programmer-gif-24927594
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fedei10&label=Profile%20views&color=0e75b6&style=flat" alt="fedei10" /> </p>
