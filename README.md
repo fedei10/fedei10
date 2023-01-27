@@ -1,12 +1,11 @@
-<h1 align="center">Hi 👋, I'm fedi bellakhel</h1>
+<h1 align="center">Hi 👋, I'm fedi bellakhel </h1>
 <h3 align="center">fedi bellakhel , I am 20 years old , a coder who is eager to learn all , My only goal is to simply advance and broaden my knowledge. now , I am learning C.</h3>
 
 
-https://media.tenor.com/4k-pgr5BZv4AAAAC/developer-programmer.gif
+![image](https://user-images.githubusercontent.com/114336963/215182441-2e086fd6-8e82-4513-a47c-3012db232b44.png)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fedei10&label=Profile%20views&color=0e75b6&style=flat" alt="fedei10" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fedei10" alt="fedei10" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@fbellakhel" target="blank"><img src="https://img.shields.io/twitter/follow/@fbellakhel?logo=twitter&style=for-the-badge" alt="@fbellakhel" /></a> </p>
 
