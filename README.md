@@ -2,7 +2,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Fedi+Bellakhel;Full-Stack+Developer+%26+AI+Enthusiast;From+Tunisia+%F0%9F%87%B9%F0%9F%87%B3+with+%E2%9D%A4%EF%B8%8F+for+Innovation" alt="Typing SVG" />
 </div>
 
-
+<div align="center">
+  <img src="https://github.com/fedei10/fedei10/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=fedei10&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile views" />
@@ -157,7 +159,7 @@ const fediBellakhel = {
 ## 🎵 My Coding Soundtrack
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=fedei&count=5&unique=true&width=400" alt="Spotify recently played"/>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=play60339&count=5&unique=true&width=400" alt="Spotify recently played"/>
 </div>
 
 <div align="center">
@@ -165,26 +167,11 @@ const fediBellakhel = {
   
   **Current Coding Vibes:**
   
-  [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/fedei10)
-  
-  🎵 **Top Coding Genres**: Lo-fi Hip Hop, Synthwave, Ambient Electronic  
-  🎤 **Favorite Artists**: Nujabes, HOME, Tycho, Boards of Canada  
-  🎼 **Current Mood**: Deep Focus Beats
+  [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/play60339)
+
 </div>
 
-<details>
-<summary>🎶 My Coding Playlists</summary>
-<br>
 
-| Playlist | Mood | Duration | Best For |
-|----------|------|----------|----------|
-| 🧠 **Deep Focus** | Concentrated | 3h 42m | Complex algorithms & debugging |
-| ⚡ **High Energy** | Energetic | 2h 18m | Frontend development & quick fixes |
-| 🌙 **Night Coding** | Chill | 4h 12m | Late night sessions & creative work |
-| 🎯 **Problem Solving** | Analytical | 2h 54m | System design & architecture |
-| 🚀 **Deploy Day** | Motivational | 1h 36m | Releases & presentations |
-
-</details>
 
 ---
 
@@ -206,7 +193,7 @@ const fediBellakhel = {
   <a href="https://dev.to/fedei10" target="_blank">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
   </a>
-  <a href="https://open.spotify.com/user/fedei10" target="_blank">
+  <a href="https://open.spotify.com/user/play60339" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
   </a>
 </div>
