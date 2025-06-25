@@ -2,9 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Fedi+Bellakhel;Full-Stack+Developer+%26+AI+Enthusiast;From+Tunisia+%F0%9F%87%B9%F0%9F%87%B3+with+%E2%9D%A4%EF%B8%8F+for+Innovation" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://github.com/fedei10/fedei10/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=fedei10&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile views" />
@@ -13,38 +10,7 @@
   <img src="https://img.shields.io/badge/Lives-Tunisia%20%F0%9F%87%B9%F0%9F%87%B3-red?style=flat-square" alt="Lives" />
 </div>
 
----
 
-## 🎯 Quick Overview
-
-```typescript
-const fediBellakhel = {
-    location: "Tunisia 🇹🇳",
-    role: "Full-Stack Developer & AI Enthusiast",
-    languages: ["JavaScript", "TypeScript", "Python", "Java"],
-    currentFocus: "Generative AI & Modern Web Technologies",
-    workingOn: "AI-powered applications",
-    learning: ["LLMs", "Vector Databases", "Advanced ML"],
-    askMeAbout: ["Web Development", "AI/ML", "System Design"],
-    funFact: "I turn coffee ☕ into code and ideas into reality ✨"
-};
-```
-
----
-
-## 🚀 What I'm Up To
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
-
-- 🔭 **Currently building**: AI-powered applications with modern frameworks
-- 🌱 **Learning**: Generative AI, LangChain, and advanced ML techniques
-- 👯 **Looking to collaborate on**: Open source projects & innovative startups
-- 🤔 **Exploring**: Vector databases, RAG systems, and AI agents
-- 💬 **Ask me about**: Full-stack development, AI integration, system design
-- 📫 **Reach me**: [bellakhelfedi@gmail.com](mailto:bellakhelfedi@gmail.com)
-- ⚡ **Fun fact**: I believe the best code is written when you're having fun!
-
----
 
 ## 🛠️ Technologies & Tools
 
@@ -155,24 +121,6 @@ const fediBellakhel = {
 </div>
 
 ---
-
-## 🎵 My Coding Soundtrack
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=play60339&count=5&unique=true&width=400" alt="Spotify recently played"/>
-</div>
-
-<div align="center">
-  <h3>🎧 What I'm listening to while coding:</h3>
-  
-  **Current Coding Vibes:**
-  
-  [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/play60339)
-
-</div>
-
-
-
 ---
 
 ## 🌐 Connect & Collaborate
